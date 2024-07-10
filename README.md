@@ -1,5 +1,7 @@
 # Massachusetts General Hospital - Tailored KPI Report
 
+![MGH - KPI Report](KPI_Report.png)
+
 ## Project Scope
 
 As an Analytics Consultant for Massachusetts General Hospital (MGH), I was tasked with developing a high-level KPI report for the executive team. This report leverages synthetic patient records from 2011-2022, encompassing approximately 1,000 patients’ demographics, insurance coverage, and medical encounters & procedures. My role was to transform this data into actionable insights that reflect the hospital’s performance over the years. For this project, **I challenged myself to do it purely on Excel.**
