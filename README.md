@@ -1,3 +1,5 @@
+> This was an entry to Maven Analytics' Hospital Challenge. [View my entry here](https://mavenanalytics.io/project/16996) and give it a like!
+
 # Massachusetts General Hospital - Tailored KPI Report
 
 ![MGH - KPI Report](KPI_Report.png)
