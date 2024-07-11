@@ -8,7 +8,7 @@ As an Analytics Consultant for Massachusetts General Hospital (MGH), I was taske
 
 ## KPI Report Overview
 
-This KPI report format aims to give the executive team a **comprehensive yet clear view** of the hospital's operational dynamics, focusing on patient admissions/readmissions, length of stay, and procedural costs. **It features PDF exportability and attribute-specific filtering to enable stakeholders to quickly access and export tailored insights.** The report's concise, one-page format ensures that it remains straightforward and accessible, concentrating on **delivering impactful, easily digestible insights** based on specific, data-driven questions about hospital performance.
+This KPI report format aims to give the executive team a **comprehensive yet clear view** of the hospital's operational dynamics, focusing on patient admissions/readmissions, length of stay, and procedural costs. **It features PDF exportability and attribute-specific filtering to enable stakeholders to quickly access and export tailored insights.** The report's concise, one-page format ensures that it remains straightforward and accessible, concentrating on **delivering impactful, easily digestible insights** based on specific, data-driven questions about hospital performance. For this dashboard, I really honed in on the 'KPI Report' concept instead of spreading the insights too thin.
 
 In defining hospital admissions and readmissions, I adhered strictly to clinical definitions *(based off of my research and my inquiring of people in the medical field who has better domain knowledge)*, **considering only inpatient encounters as admissions and using a 30-day threshold to classify readmissions**, enhancing the accuracy of our data analysis.
 
